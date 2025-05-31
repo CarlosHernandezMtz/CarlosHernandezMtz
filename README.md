@@ -6,6 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=josecarlos&label=Visitas&color=blue&style=flat" alt="Visitas al perfil" />
 </p>
 
+<p align="center">
+  <img src="https://imgur.com/a/FvwMVPO" alt="xd" width="200" />
+</p>
+
+
 ---
 
 ### 🚀 Sobre mí
